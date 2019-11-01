@@ -1,5 +1,4 @@
 #include "TcpListener.h"
-
 using namespace std;
 
 int TcpListener::create()
