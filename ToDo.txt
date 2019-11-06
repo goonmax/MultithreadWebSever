@@ -1,0 +1,5 @@
+> create server
+> create client 
+> create authenication thread with will have the user name and password and maybe an authenication key.
+> there will be a  chat thread as well
+
