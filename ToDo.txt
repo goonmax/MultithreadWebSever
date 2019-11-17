@@ -3,4 +3,4 @@
 > create authenication thread with will have the user name and password and maybe an authenication key.
 > create chat thread
 > have Kubernetes host the micro services e.g the front and backend 
-> have  Ansible to setup hosts that will run Kubernetes
+> have  Ansible to setup hosts that will run Kubernetes cluster
