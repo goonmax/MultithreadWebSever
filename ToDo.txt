@@ -4,5 +4,3 @@
 > create chat thread.
 > have Kubernetes host the micro services e.g the front and backend. 
 > have  Ansible to setup hosts that will run Kubernetes cluster.
-> socket is a combination of the ip and address and port number.
-> season os a logical connectivity  between the source and destration 
