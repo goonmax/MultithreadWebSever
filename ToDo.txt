@@ -1,6 +1,8 @@
-> create server
-> create client 
+> create server.
+> create client. 
 > create authenication thread with will have the user name and password and maybe an authenication key.
-> create chat thread
-> have Kubernetes host the micro services e.g the front and backend 
-> have  Ansible to setup hosts that will run Kubernetes cluster
+> create chat thread.
+> have Kubernetes host the micro services e.g the front and backend. 
+> have  Ansible to setup hosts that will run Kubernetes cluster.
+> socket is a combination of the ip and address and port number.
+> season os a logical connectivity  between the source and destration 
