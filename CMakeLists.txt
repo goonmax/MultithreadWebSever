@@ -8,7 +8,7 @@ set(This Example)
 project(${this} C CXX)
 
 set(CMAKE_C_STANDARD 99)
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
 
@@ -17,10 +17,10 @@ enable_testing()
 add_subdirectory(googletest)
 
 set(Headers
-    Example.hpp
+    mutex.hpp
     )
 set(Sources
-    Example.cpp
+    mutex.cpp
     )
 
 
