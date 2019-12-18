@@ -1,16 +1,12 @@
-cmake_minium_required(VERSION 3.8)
-
-
+cmake_minimum_required(VERSION 3.8)
 
 set(This Example)
-
 
 project(${this} C CXX)
 
 set(CMAKE_C_STANDARD 99)
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_POSITION_INDEPENDENT_CODE ON)
-
 
 enable_testing()
 
